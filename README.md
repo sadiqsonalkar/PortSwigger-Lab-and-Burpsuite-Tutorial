@@ -22,3 +22,10 @@ Decoder
 Extender
 
 Scanner
+
+# The labs I perfomred are on portswigger. Portswigger is the company that created Burpsuite.
+# Lab 1 Link: https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+# Lab 2 Link: https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-request-splitting-via-crlf-injection
+# Lab 3 Link: https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request
+# Lab 4 Link: https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-poisoning-via-middleware
+# Lab 5 Link: https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step
